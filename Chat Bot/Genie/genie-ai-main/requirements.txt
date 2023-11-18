@@ -1,0 +1,8 @@
+  langchain
+  google-cloud-aiplatform
+  gradio
+  pandas
+  plotly
+  pandas_gbq
+  kaleido
+  
