@@ -1,1 +1,1 @@
-
+The End to End ML file consists of step-wise explanation of implementing AI. The initial portion focuses on creating a dataset preprocessing and training pipeline, fitting the data, save validation metrics using hpt.hypertune.HyperTune(), create dockerfile, build docker image and push docker container to container registry.
