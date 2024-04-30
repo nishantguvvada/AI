@@ -9,3 +9,5 @@ AI Projects
 | 4 | Stable Diffusion 2 (model :https://huggingface.co/stabilityai/stable-diffusion-2)  | stable-diffusion-2         | Beginner     |
 | 5 | Text to Code Explanation (model :code-bison-32k)                                   | code-bison-32k             | Beginner     |
 | 6 | Image Classification - Hip Implant                                                 | CNN                        | Beginner     |
+| 7 | Recommendation Systems                                                             | cosine_similarity          | Beginner     |
+| 8 | Crop Recommendation                                                                | Random Forest Regressor    | Beginner     |
