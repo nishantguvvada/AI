@@ -11,3 +11,4 @@ AI Projects
 | 6 | Image Classification - Hip Implant                                                 | CNN                        | Beginner     |
 | 7 | Recommendation Systems                                                             | cosine_similarity          | Beginner     |
 | 8 | Crop Recommendation                                                                | Random Forest Regressor    | Beginner     |
+| 9 | AI-den chatbot (model :snowflake-arctic-instruct)                                  | Chat Bot                   | Beginner     |
